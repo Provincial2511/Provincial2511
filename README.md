@@ -10,7 +10,6 @@
 
 </div>
 
-  [CV](https://hh.ru/resume/eb81e4a2ff0e0e17710039ed1f6f5a70727743)
 
 -  Студент второго курса, заочного отделения МФЮА, обучаюсь по специальности “Прикладная информатика в экономике”.
 
@@ -62,4 +61,4 @@
 | Название       | Краткое описание      | Технологии |
 |----------------|-----------------|-----------|
 |[Прогнозирование риска инсульта (EN)](https://github.com/Provincial2511/My-Project-in-MedTech) / [Kaggle](https://www.kaggle.com/code/provincial2511/1-class-39-50-recall-0-77)|Классификация вероятности инсульта у людей на основе их индивидуальных характеристик| Python, Pandas, Numpy, Matplotlib, Scikit-learn, CatBoost, XGBoost, LightGBM  |
-|[Сборник различных практик с Kaggle](https://github.com/Provincial2511/Practice-on-Kaggle)|В рамках учебы на платформе Stepik работал с датасетами на платформе Kaggle| ♾️ |
+
