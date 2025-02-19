@@ -61,5 +61,5 @@
 | Название       | Краткое описание      | Технологии |
 |----------------|-----------------|-----------|
 |[Прогнозирование риска инсульта (EN)](https://github.com/Provincial2511/My-Project-in-MedTech) / [Kaggle](https://www.kaggle.com/code/provincial2511/1-class-39-50-recall-0-77)|Классификация вероятности инсульта у людей на основе их индивидуальных характеристик| Python, Pandas, Numpy, Matplotlib, Scikit-learn, CatBoost, XGBoost, LightGBM  |
-|[TG-бот для подбора ресторанов](https://github.com/Provincial2511/Dorcia-TG-Bot) |Подбор ресторанов для пользователя / группы людей в завивисмости от предпочтений в еде| Python, Pandas, telebot, firebase_admin|
+|[TG-бот для подбора ресторанов](https://github.com/Provincial2511/Dorcia-TG-Bot) |Подбор ресторанов для пользователя / группы людей в завивисмости от предпочтений в еде| Python, Pandas, Telebot, Firebase_admin|
 
